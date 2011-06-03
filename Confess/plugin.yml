@@ -1,0 +1,10 @@
+name: Confess
+main: me.adamki11s.Confess.Confess
+version: 1.00
+commands:
+  confess:
+    description: Full Inventory Control
+    usage: |
+           /confess <get/show> <playername>
+           /confess <check> <playername>
+           /confess <delete/remove> <playername> <water/lava/fire/tnt/bedrock/all>
